@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Project in IT108</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .header h1 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .header h2 {
+            font-size: 20px;
+            color: #444;
+            margin-bottom: 20px;
+        }
+        .student-info {
+            font-size: 16px;
+            color: #666;
+            margin-bottom: 40px;
+        }
+        .project-description {
+            max-width: 800px;
+            margin: 0 auto 30px;
+            padding: 25px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            border: 1px solid #e0e0e0;
+        }
+        .project-description h2 {
+            color: #333;
+            font-size: 20px;
+            margin: 0 0 15px 0;
+            text-align: left;
+            font-weight: 600;
+        }
+        .project-description p {
+            color: #555;
+            line-height: 1.6;
+            margin: 0;
+            text-align: left;
+            font-size: 15px;
+        }
+        .button-container {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        .action-button {
+            background-color: #007bff;
+            color: white;
+            padding: 15px;
+            border-radius: 8px;
+            text-decoration: none;
+            text-align: center;
+            font-size: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background-color 0.3s;
+            border: none;
+            cursor: pointer;
+        }
+        .action-button:hover {
+            background-color: #0056b3;
+        }
+        .action-button img {
+            margin-right: 10px;
+            width: 20px;
+            height: 20px;
+        }
+        hr {
+            border: none;
+            border-top: 1px solid #ddd;
+            margin: 30px 0;
+        }
+        #status {
+            margin-top: 20px;
+            padding: 10px;
+            border-radius: 4px;
+            text-align: center;
+            display: none;
+        }
+        .success {
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .error {
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Final Project in IT108</h1>
+        <h2>Title: SmartPhone Price to Feature Analytics: Understanding Value Across Brands</h2>
+        <div class="student-info">Student Name: Cernie Criz Marie G. Abiera</div>
+        <hr>
+    </div>
+
+    <div class="project-description">
+        <h2>Project Description</h2>
+        <p>This system provides a comprehensive analysis of the mobile phone market, offering detailed insights into various aspects of smartphone specifications and market trends. The analysis covers 328 mobile phones across different brands, examining key features including brand distribution and market share, price range segmentation, storage and RAM configurations, camera specifications (resolution, count, and capabilities), battery capacity analysis, and screen size distribution. The visualization presents this data through interactive charts, making it easy to understand market trends and consumer preferences. The system processes raw phone data, normalizes specifications, and presents the information in a user-friendly dashboard format.</p>
+    </div>
+
+    <div class="button-container">
+        <button class="action-button" onclick="handleSourceData()">
+            📊 Source Data (CSV)
+        </button>
+        
+        <button class="action-button" onclick="handleCleanData()">
+            🧹 Clean Data
+        </button>
+        
+        <button class="action-button" onclick="handleAnalyzeData()">
+            📈 Analyze Data
+        </button>
+        
+        <button class="action-button" onclick="handleVisualization()">
+            📉 Data Visualization
+        </button>
+    </div>
+
+    <div id="status"></div>
+
+    <script>
+        function showStatus(message, isError = false) {
+            const status = document.getElementById('status');
+            status.textContent = message;
+            status.className = isError ? 'error' : 'success';
+            status.style.display = 'block';
+            setTimeout(() => {
+                status.style.display = 'none';
+            }, 5000);
+        }
+
+        function handleSourceData() {
+            // Create a temporary link to download the CSV
+            const link = document.createElement('a');
+            link.href = 'data.csv';
+            link.download = 'crime_data.csv';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            showStatus('Downloading CSV file...');
+        }
+
+        async function handleCleanData() {
+            try {
+                showStatus('Cleaning data...');
+                const response = await fetch('clean_data.php');
+                const text = await response.text();
+                // Redirect to the results page
+                window.location.href = 'clean_data_result.html';
+            } catch (error) {
+                showStatus('Error during data cleaning: ' + error.message, true);
+            }
+        }
+
+        async function handleAnalyzeData() {
+            try {
+                showStatus('Analyzing data...');
+                const response = await fetch('analyze_data.php');
+                const text = await response.text();
+                // Redirect to the analysis results page
+                window.location.href = 'analyze_data_result.html';
+            } catch (error) {
+                showStatus('Error during data analysis: ' + error.message, true);
+            }
+        }
+
+        function handleVisualization() {
+            window.location.href = 'visualization.html';
+        }
+    </script>
+</body>
+</html> 
