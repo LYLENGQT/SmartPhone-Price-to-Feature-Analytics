@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile Phone Market Analysis</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+            min-height: 100vh;
+        }
+        .page-header {
+            max-width: 1400px;
+            margin: 0 auto 30px;
+            padding: 0 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+            font-size: 28px;
+            margin: 20px 0;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 40px;
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        .chart-container {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            height: 500px;
+            position: relative;
+            margin-bottom: 20px;
+            display: flex;
+            flex-direction: column;
+        }
+        .chart-wrapper {
+            flex: 1;
+            position: relative;
+            min-height: 0;
+        }
+        .chart-container h2 {
+            color: #333;
+            font-size: 20px;
+            margin: 0 0 20px 0;
+            text-align: center;
+            flex-shrink: 0;
+        }
+        #loadingStatus {
+            text-align: center;
+            padding: 12px;
+            margin: 0 auto 30px;
+            background: #e3f2fd;
+            border-radius: 8px;
+            max-width: 1400px;
+        }
+        .error-message {
+            color: #721c24;
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+            padding: 12px;
+            margin: 10px 0;
+            border-radius: 8px;
+        }
+        @media (max-width: 1200px) {
+            .grid {
+                grid-template-columns: 1fr;
+                max-width: 800px;
+            }
+            .chart-container {
+                height: 450px;
+            }
+        }
+        .back-btn {
+            display: inline-block;
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 4px;
+            margin: 0 0 20px 0;
+            transition: background-color 0.3s;
+        }
+        .back-btn:hover {
+            background-color: #0056b3;
+        }
+        .project-description {
+            max-width: 800px;
+            margin: 0 auto 30px;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .project-description h2 {
+            color: #333;
+            font-size: 22px;
+            margin: 0 0 15px 0;
+            text-align: left;
+        }
+        .project-description p {
+            color: #555;
+            line-height: 1.6;
+            margin: 0;
+            text-align: left;
+        }
+        .project-description ul {
+            color: #555;
+            line-height: 1.6;
+            margin: 0 0 15px 0;
+            padding-left: 20px;
+        }
+        .project-description li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="page-header">
+        <a href="dashboard.html" class="back-btn">← Back to Dashboard</a>
+        <h1>Mobile Phone Market Analysis</h1>
+        <div class="project-description">
+            <h2>Project Description</h2>
+            <p>This system provides a comprehensive analysis of the mobile phone market, offering detailed insights into various aspects of smartphone specifications and market trends. The analysis covers 328 mobile phones across different brands, examining key features including brand distribution and market share, price range segmentation, storage and RAM configurations, camera specifications (resolution, count, and capabilities), battery capacity analysis, and screen size distribution. The visualization presents this data through interactive charts, making it easy to understand market trends and consumer preferences. The system processes raw phone data, normalizes specifications, and presents the information in a user-friendly dashboard format.</p>
+        </div>
+        <div id="loadingStatus">Loading data...</div>
+    </div>
+    
+    <div class="grid">
+        <div class="chart-container">
+            <h2>Brand Distribution</h2>
+            <div class="chart-wrapper">
+                <canvas id="brandChart"></canvas>
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <h2>Price Range Distribution</h2>
+            <div class="chart-wrapper">
+                <canvas id="priceChart"></canvas>
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <h2>Storage Distribution</h2>
+            <div class="chart-wrapper">
+                <canvas id="storageChart"></canvas>
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <h2>RAM Distribution</h2>
+            <div class="chart-wrapper">
+                <canvas id="ramChart"></canvas>
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <h2>Camera Analysis</h2>
+            <div class="chart-wrapper">
+                <canvas id="cameraChart"></canvas>
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <h2>Battery Capacity Distribution</h2>
+            <div class="chart-wrapper">
+                <canvas id="batteryChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Debug function
+        function debugLog(message, error = false) {
+            const status = document.getElementById('loadingStatus');
+            status.textContent = message;
+            status.style.background = error ? '#ffebee' : '#e3f2fd';
+            console.log(message);
+            if (error) console.error(error);
+        }
+
+        // Normalize storage/RAM values
+        function normalizeData(data) {
+            // Helper function to normalize a single value
+            function normalizeValue(value) {
+                // Extract numeric part and append GB
+                const numericValue = parseInt(value.replace(/[^0-9]/g, ''));
+                return numericValue + 'GB';
+            }
+
+            // Helper function to combine duplicate entries in distribution
+            function combineDistribution(distribution) {
+                const normalized = {};
+                for (let [key, value] of Object.entries(distribution)) {
+                    const normalizedKey = normalizeValue(key);
+                    normalized[normalizedKey] = (normalized[normalizedKey] || 0) + value;
+                }
+                return normalized;
+            }
+
+            // Create a new object with normalized data
+            return {
+                ...data,
+                storage_distribution: combineDistribution(data.storage_distribution),
+                ram_distribution: combineDistribution(data.ram_distribution)
+            };
+        }
+
+        // Chart configuration
+        const chartConfig = {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    position: 'top',
+                    labels: {
+                        padding: 10,
+                        boxWidth: 11,
+                        font: {
+                            size: 11
+                        }
+                    }
+                }
+            },
+            layout: {
+                padding: {
+                    top: 10,
+                    right: 10,
+                    bottom: 10,
+                    left: 10
+                }
+            }
+        };
+
+        // Create and render charts
+        function renderCharts(data) {
+            try {
+                debugLog('Creating charts...');
+
+                // Brand Distribution Chart (Bar)
+                new Chart(document.getElementById('brandChart'), {
+                    type: 'bar',
+                    data: {
+                        labels: Object.keys(data.brands),
+                        datasets: [{
+                            label: 'Number of Phones',
+                            data: Object.values(data.brands),
+                            backgroundColor: 'rgba(54, 162, 235, 0.5)',
+                            borderColor: 'rgba(54, 162, 235, 1)',
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        ...chartConfig,
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                ticks: {
+                                    stepSize: 10
+                                }
+                            },
+                            x: {
+                                ticks: {
+                                    maxRotation: 45,
+                                    minRotation: 45
+                                }
+                            }
+                        }
+                    }
+                });
+
+                // Price Range Chart (Doughnut)
+                new Chart(document.getElementById('priceChart'), {
+                    type: 'doughnut',
+                    data: {
+                        labels: Object.keys(data.price_ranges),
+                        datasets: [{
+                            data: Object.values(data.price_ranges),
+                            backgroundColor: [
+                                'rgba(255, 99, 132, 0.5)',
+                                'rgba(54, 162, 235, 0.5)',
+                                'rgba(255, 206, 86, 0.5)',
+                                'rgba(75, 192, 192, 0.5)',
+                                'rgba(153, 102, 255, 0.5)',
+                                'rgba(255, 159, 64, 0.5)'
+                            ]
+                        }]
+                    },
+                    options: {
+                        ...chartConfig,
+                        cutout: '60%'
+                    }
+                });
+
+                // Storage Distribution Chart (Pie)
+                new Chart(document.getElementById('storageChart'), {
+                    type: 'pie',
+                    data: {
+                        labels: Object.keys(data.storage_distribution).sort((a, b) => {
+                            return parseInt(a) - parseInt(b);
+                        }),
+                        datasets: [{
+                            data: Object.keys(data.storage_distribution)
+                                .sort((a, b) => parseInt(a) - parseInt(b))
+                                .map(key => data.storage_distribution[key]),
+                            backgroundColor: [
+                                'rgba(255, 99, 132, 0.5)',
+                                'rgba(54, 162, 235, 0.5)',
+                                'rgba(255, 206, 86, 0.5)',
+                                'rgba(75, 192, 192, 0.5)',
+                                'rgba(153, 102, 255, 0.5)'
+                            ]
+                        }]
+                    },
+                    options: chartConfig
+                });
+
+                // RAM Distribution Chart (Bar)
+                new Chart(document.getElementById('ramChart'), {
+                    type: 'bar',
+                    data: {
+                        labels: Object.keys(data.ram_distribution).sort((a, b) => {
+                            return parseInt(a) - parseInt(b);
+                        }),
+                        datasets: [{
+                            label: 'Number of Phones',
+                            data: Object.keys(data.ram_distribution)
+                                .sort((a, b) => parseInt(a) - parseInt(b))
+                                .map(key => data.ram_distribution[key]),
+                            backgroundColor: 'rgba(75, 192, 192, 0.5)',
+                            borderColor: 'rgba(75, 192, 192, 1)',
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        ...chartConfig,
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                ticks: {
+                                    stepSize: 5
+                                }
+                            },
+                            x: {
+                                ticks: {
+                                    maxRotation: 45,
+                                    minRotation: 45
+                                }
+                            }
+                        }
+                    }
+                });
+
+                // Camera Analysis Chart (Radar)
+                new Chart(document.getElementById('cameraChart'), {
+                    type: 'radar',
+                    data: {
+                        labels: ['Average Total MP', 'Average Camera Count', 'Highest MP'],
+                        datasets: [{
+                            label: 'Camera Statistics',
+                            data: [
+                                data.camera_analysis.average_total_mp,
+                                data.camera_analysis.average_camera_count,
+                                data.camera_analysis.highest_mp
+                            ],
+                            backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                            borderColor: 'rgba(255, 99, 132, 1)',
+                            pointBackgroundColor: 'rgba(255, 99, 132, 1)',
+                            pointBorderColor: '#fff',
+                            pointHoverBackgroundColor: '#fff',
+                            pointHoverBorderColor: 'rgba(255, 99, 132, 1)'
+                        }]
+                    },
+                    options: {
+                        ...chartConfig,
+                        scales: {
+                            r: {
+                                beginAtZero: true,
+                                ticks: {
+                                    stepSize: 20
+                                }
+                            }
+                        }
+                    }
+                });
+
+                // Battery Analysis Chart (Line)
+                new Chart(document.getElementById('batteryChart'), {
+                    type: 'line',
+                    data: {
+                        labels: ['Min', 'Average', 'Max'],
+                        datasets: [{
+                            label: 'Battery Capacity (mAh)',
+                            data: [
+                                data.battery_analysis.min_capacity,
+                                data.battery_analysis.average_capacity,
+                                data.battery_analysis.max_capacity
+                            ],
+                            fill: false,
+                            borderColor: 'rgb(75, 192, 192)',
+                            tension: 0.1
+                        }]
+                    },
+                    options: {
+                        ...chartConfig,
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                ticks: {
+                                    stepSize: 1000
+                                }
+                            }
+                        }
+                    }
+                });
+
+                debugLog('Charts created successfully!');
+            } catch (error) {
+                debugLog('Error creating charts: ' + error.message, true);
+            }
+        }
+
+        // Load data and initialize charts
+        debugLog('Loading data...');
+        fetch('analysis_results.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                debugLog('Data fetched, parsing JSON...');
+                return response.json();
+            })
+            .then(data => {
+                debugLog('Data parsed successfully!');
+                console.log('Loaded data:', data);
+                const normalizedData = normalizeData(data);
+                renderCharts(normalizedData);
+            })
+            .catch(error => {
+                debugLog('Error loading data: ' + error.message, true);
+                // Fallback to PHP data loading if fetch fails
+                const script = document.createElement('script');
+                script.src = 'get_data.php';
+                document.body.appendChild(script);
+            });
+    </script>
+</body>
+</html> 

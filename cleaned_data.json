@@ -1,0 +1,3282 @@
+[
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 13 Pro",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.1",
+        "Camera (MP)": "12+12+12",
+        "Battery Capacity (mAh)": 3095,
+        "Price ($)": 999
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S21 Ultra",
+        "Storage": "256 GB",
+        "RAM": "12 GB",
+        "Screen Size (inches)": "6.8",
+        "Camera (MP)": "108+10+10+12",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 1199
+    },
+    {
+        "Brand": "OnePlus",
+        "Model": "9 Pro",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "48+50+8+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 899
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi Note 10 Pro",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "64+8+5+2",
+        "Battery Capacity (mAh)": 5020,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 6",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "50+12.2",
+        "Battery Capacity (mAh)": 4614,
+        "Price ($)": 799
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 13",
+        "Storage": "128 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.1",
+        "Camera (MP)": "12+12",
+        "Battery Capacity (mAh)": 2815,
+        "Price ($)": 799
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Flip3",
+        "Storage": "256 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "12+12",
+        "Battery Capacity (mAh)": 3300,
+        "Price ($)": 999
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Poco X3 Pro",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 5160,
+        "Price ($)": 249
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "Reno6 Pro+ 5G",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "50+13+16+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 699
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "X70 Pro+",
+        "Storage": "256 GB",
+        "RAM": "12 GB",
+        "Screen Size (inches)": "6.78",
+        "Camera (MP)": "50+48+12+8",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 1199
+    },
+    {
+        "Brand": "OnePlus",
+        "Model": "Nord CE 5G",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "64+8+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 329
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A52s 5G",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "64+12+5+5",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 449
+    },
+    {
+        "Brand": "Realme",
+        "Model": "GT Neo2",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.62",
+        "Camera (MP)": "64+8+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 329
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 12 Mini",
+        "Storage": "64 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "5.4",
+        "Camera (MP)": "12+12",
+        "Battery Capacity (mAh)": 2227,
+        "Price ($)": 699
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "Find X3 Pro",
+        "Storage": "256 GB",
+        "RAM": "12 GB",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "50+50+13+3",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 1199
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Mi 11 Lite 5G NE",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "64+8+5",
+        "Battery Capacity (mAh)": 4250,
+        "Price ($)": 329
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S21",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.2",
+        "Camera (MP)": "64+12+12",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 799
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y20s (G)",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.51",
+        "Camera (MP)": "50+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Realme",
+        "Model": "8s 5G",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 299
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A94",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 4310,
+        "Price ($)": 379
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi 10 Prime",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "50+8+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A22 5G",
+        "Storage": "128 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.6",
+        "Camera (MP)": "48+5",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Realme",
+        "Model": "Narzo 50 Pro 5G",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+50+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 249
+    },
+    {
+        "Brand": "OnePlus",
+        "Model": "9",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "48+50+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 729
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi Note 10 Pro Max",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "108+8+5+2",
+        "Battery Capacity (mAh)": 5020,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 11",
+        "Storage": "64 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.1",
+        "Camera (MP)": "12+12",
+        "Battery Capacity (mAh)": 3110,
+        "Price ($)": 599
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A03s",
+        "Storage": "32 GB",
+        "RAM": "3 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 139
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A74 5G",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 299
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y12s (2021)",
+        "Storage": "32 GB",
+        "RAM": "3 GB",
+        "Screen Size (inches)": "6.51",
+        "Camera (MP)": "13+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 139
+    },
+    {
+        "Brand": "Realme",
+        "Model": "9i",
+        "Storage": "128 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "50+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 189
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy M52 5G",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "64+12+5+5",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 449
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi 10",
+        "Storage": "128 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "50+8+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone SE (2nd Gen)",
+        "Storage": "64 GB",
+        "RAM": "3 GB",
+        "Screen Size (inches)": "4.7",
+        "Camera (MP)": "12",
+        "Battery Capacity (mAh)": 1821,
+        "Price ($)": 399
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A53s",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 259
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y33s",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.58",
+        "Camera (MP)": "50+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Realme",
+        "Model": "C25s",
+        "Storage": "128 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 159
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A22 4G",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "48+5+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 229
+    },
+    {
+        "Brand": "OnePlus",
+        "Model": "Nord 2 5G",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "50+8+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 399
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Poco M3 Pro 5G",
+        "Storage": "64 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone XR",
+        "Storage": "64 GB",
+        "RAM": "3 GB",
+        "Screen Size (inches)": "6.1",
+        "Camera (MP)": "12",
+        "Battery Capacity (mAh)": 2942,
+        "Price ($)": 499
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A16",
+        "Storage": "64 GB",
+        "RAM": "3 GB",
+        "Screen Size (inches)": "6.52",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 159
+    },
+    {
+        "Brand": "Realme",
+        "Model": "C21Y",
+        "Storage": "64 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 129
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy F22",
+        "Storage": "64 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 189
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "F19 Pro+ 5G",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "64+8+2+2",
+        "Battery Capacity (mAh)": 4310,
+        "Price ($)": 399
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Mi 11X",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "48+8+5",
+        "Battery Capacity (mAh)": 4520,
+        "Price ($)": 529
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "V21e",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.44",
+        "Camera (MP)": "64+8",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 369
+    },
+    {
+        "Brand": "Realme",
+        "Model": "8 5G",
+        "Storage": "128 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy M12",
+        "Storage": "64 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+5+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 159
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A16s",
+        "Storage": "64 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.52",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi 9 Power",
+        "Storage": "128 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.53",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 189
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 11 Pro Max",
+        "Storage": "256 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "12+12+12",
+        "Battery Capacity (mAh)": 3969,
+        "Price ($)": 1099
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y20G",
+        "Storage": "64 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.51",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 169
+    },
+    {
+        "Brand": "Realme",
+        "Model": "Narzo 50i",
+        "Storage": "32 GB",
+        "RAM": "2 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "50+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 99
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A54",
+        "Storage": "128 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.51",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 239
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi 9T",
+        "Storage": "128 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.53",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 13 Pro Max",
+        "Storage": "256 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "12+12+12",
+        "Battery Capacity (mAh)": 4352,
+        "Price ($)": 1299
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y33",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.58",
+        "Camera (MP)": "50+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 249
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A72",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "64+12+8+5",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 429
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "Reno6 Pro 5G",
+        "Storage": "128 GB",
+        "RAM": "12 GB",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "64+8+2+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 659
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone SE (2020)",
+        "Storage": "64 GB",
+        "RAM": "3 GB",
+        "Screen Size (inches)": "4.7",
+        "Camera (MP)": "12",
+        "Battery Capacity (mAh)": 1821,
+        "Price ($)": 399
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y53s",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.58",
+        "Camera (MP)": "64+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 269
+    },
+    {
+        "Brand": "Realme",
+        "Model": "7i",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "64+8+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 239
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A52 5G",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "64+12+5+5",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 449
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "F19 Pro",
+        "Storage": "128 GB",
+        "RAM": "8 GB",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 4310,
+        "Price ($)": 359
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi Note 10S",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "64+8+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 229
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y21s",
+        "Storage": "128 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.51",
+        "Camera (MP)": "50+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Mi 11 Lite 5G",
+        "Storage": "128 GB",
+        "RAM": "6 GB",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "64+8+5",
+        "Battery Capacity (mAh)": 4250,
+        "Price ($)": 369
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 11",
+        "Storage": "128 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.1",
+        "Camera (MP)": "12+12",
+        "Battery Capacity (mAh)": 3110,
+        "Price ($)": 599
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "X60 Pro",
+        "Storage": "256 GB",
+        "RAM": "12 GB",
+        "Screen Size (inches)": "6.56",
+        "Camera (MP)": "48+13+13",
+        "Battery Capacity (mAh)": 4200,
+        "Price ($)": 799
+    },
+    {
+        "Brand": "Realme",
+        "Model": "Narzo 50A",
+        "Storage": "64 GB",
+        "RAM": "4 GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "50+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 139
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 13",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.1",
+        "Camera (MP)": "12+12",
+        "Battery Capacity (mAh)": 2815,
+        "Price ($)": 799
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S21",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.2",
+        "Camera (MP)": "64+12+12",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 799
+    },
+    {
+        "Brand": "OnePlus",
+        "Model": "Nord 2",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "50+8+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 399
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 6",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "50+12",
+        "Battery Capacity (mAh)": 4600,
+        "Price ($)": 699
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Poco X4 Pro",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 5160,
+        "Price ($)": 329
+    },
+    {
+        "Brand": "Realme",
+        "Model": "GT Master Edition",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "64+8+2",
+        "Battery Capacity (mAh)": 4300,
+        "Price ($)": 399
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "X70 Pro+",
+        "Storage": "256GB",
+        "RAM": "12GB",
+        "Screen Size (inches)": "6.78",
+        "Camera (MP)": "50+48+12+8",
+        "Battery Capacity (mAh)": 4450,
+        "Price ($)": 999
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "Reno6 Pro+",
+        "Storage": "256GB",
+        "RAM": "12GB",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "50+16+13+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 699
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Edge 20 Pro",
+        "Storage": "256GB",
+        "RAM": "12GB",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "108+16+8",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 699
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "XR20",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "48+13",
+        "Battery Capacity (mAh)": 4630,
+        "Price ($)": 549
+    },
+    {
+        "Brand": "Sony",
+        "Model": "Xperia 5 III",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.1",
+        "Camera (MP)": "12+12+12",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 1299
+    },
+    {
+        "Brand": "LG",
+        "Model": "Wing",
+        "Storage": "256GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.8 + 3.9",
+        "Camera (MP)": "64+13+12",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 999
+    },
+    {
+        "Brand": "Asus",
+        "Model": "Zenfone 8 Flip",
+        "Storage": "256GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "64+12+8",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 899
+    },
+    {
+        "Brand": "Blackberry",
+        "Model": "KEY2 LE",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "4.5",
+        "Camera (MP)": "13+5",
+        "Battery Capacity (mAh)": 3000,
+        "Price ($)": 399
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A72",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "64+12+8+5",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 449
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi Note 10 Pro Max",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "108+8+5+2",
+        "Battery Capacity (mAh)": 5020,
+        "Price ($)": 319
+    },
+    {
+        "Brand": "Realme",
+        "Model": "Narzo 50 Pro 5G",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+50+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 269
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "F19 Pro+",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 4310,
+        "Price ($)": 349
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y33s",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.58",
+        "Camera (MP)": "50+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 269
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto G60",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.8",
+        "Camera (MP)": "108+8+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "5.4",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.39",
+        "Camera (MP)": "48+5+2",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 249
+    },
+    {
+        "Brand": "LG",
+        "Model": "K92 5G",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "64+5+2+2",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 349
+    },
+    {
+        "Brand": "Asus",
+        "Model": "Zenfone 8",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "5.9",
+        "Camera (MP)": "64+12",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 699
+    },
+    {
+        "Brand": "Blackberry",
+        "Model": "KEY2",
+        "Storage": "64GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "4.5",
+        "Camera (MP)": "12+12",
+        "Battery Capacity (mAh)": 3500,
+        "Price ($)": 699
+    },
+    {
+        "Brand": "CAT",
+        "Model": "S42",
+        "Storage": "32GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "5.5",
+        "Camera (MP)": "13+5",
+        "Battery Capacity (mAh)": 4200,
+        "Price ($)": 299
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Flip 3",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "12+12",
+        "Battery Capacity (mAh)": 3300,
+        "Price ($)": 999
+    },
+    {
+        "Brand": "OnePlus",
+        "Model": "9 Pro",
+        "Storage": "256GB",
+        "RAM": "12GB",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "48+50+8",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 969
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Mi 11 Ultra",
+        "Storage": "256GB",
+        "RAM": "12GB",
+        "Screen Size (inches)": "6.81",
+        "Camera (MP)": "50+48+48",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 1199
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A16",
+        "Storage": "32GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "6.52",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 149
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y12A",
+        "Storage": "32GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "6.51",
+        "Camera (MP)": "13+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 139
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "C20 Plus",
+        "Storage": "32GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "8+2",
+        "Battery Capacity (mAh)": 4950,
+        "Price ($)": 99
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S20 FE 5G",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "12+12+8",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 699
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto E7i Power",
+        "Storage": "32GB",
+        "RAM": "2GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 99
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Poco M3 Pro 5G",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Realme",
+        "Model": "C21Y",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 169
+    },
+    {
+        "Brand": "Asus",
+        "Model": "ROG Phone 5",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.78",
+        "Camera (MP)": "64+13+5",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 999
+    },
+    {
+        "Brand": "LG",
+        "Model": "Velvet 5G",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.8",
+        "Camera (MP)": "48+8+5",
+        "Battery Capacity (mAh)": 4300,
+        "Price ($)": 499
+    },
+    {
+        "Brand": "Blackberry",
+        "Model": "Evolve",
+        "Storage": "64GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "5.99",
+        "Camera (MP)": "12+13",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 399
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "Reno 6 Pro+",
+        "Storage": "256GB",
+        "RAM": "12GB",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "50+13+16+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 799
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A03s",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi 10 Prime",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "50+8+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 219
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto G50",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+5+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 249
+    },
+    {
+        "Brand": "Realme",
+        "Model": "Narzo 50A",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "50+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 149
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "G20",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+5",
+        "Battery Capacity (mAh)": 5050,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy M32",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "64+8+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y20G",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.51",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Asus",
+        "Model": "Zenfone 8 Flip",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "64+12+12",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 899
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A54",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.51",
+        "Camera (MP)": "50+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 269
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy F22",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 229
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Mi 11 Lite 5G",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "64+8+5",
+        "Battery Capacity (mAh)": 4250,
+        "Price ($)": 399
+    },
+    {
+        "Brand": "Realme",
+        "Model": "8i",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.6",
+        "Camera (MP)": "50+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 239
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "C30",
+        "Storage": "64GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "6.82",
+        "Camera (MP)": "13+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 149
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A32",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "64+8+5+5",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A52s 5G",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "64+12+5+5",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 449
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A16s",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.52",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto G Stylus 5G",
+        "Storage": "128GB",
+        "RAM": "5GB",
+        "Screen Size (inches)": "6.8",
+        "Camera (MP)": "48+8+5",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 399
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Poco M3 Pro 5G",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Realme",
+        "Model": "GT Neo2",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.62",
+        "Camera (MP)": "64+8+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 399
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A21s",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 219
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y12s",
+        "Storage": "32GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "6.51",
+        "Camera (MP)": "13+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 149
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "F19s",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "48+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 299
+    },
+    {
+        "Brand": "Realme",
+        "Model": "Narzo 30 Pro 5G",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+8+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A03s",
+        "Storage": "32GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 149
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto G Pure",
+        "Storage": "32GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 169
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "Reno6 Z 5G",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "64+8+2",
+        "Battery Capacity (mAh)": 4310,
+        "Price ($)": 389
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S21 Ultra 5G",
+        "Storage": "256GB",
+        "RAM": "12GB",
+        "Screen Size (inches)": "6.8",
+        "Camera (MP)": "108+12+10+10",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 1199
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y53s",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.58",
+        "Camera (MP)": "64+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 299
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "G50",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.82",
+        "Camera (MP)": "48+5+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 299
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi 9 Activ",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.53",
+        "Camera (MP)": "13+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 149
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A54s",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "50+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 249
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy M22",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 219
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto G Power 2022",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.6",
+        "Camera (MP)": "48+8+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 249
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y21s",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.51",
+        "Camera (MP)": "50+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Poco X3 GT",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.6",
+        "Camera (MP)": "64+8+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 299
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy F42 5G",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.6",
+        "Camera (MP)": "64+8+5",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 309
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A16s",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.52",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "V21e",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.44",
+        "Camera (MP)": "64+8",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 369
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Edge 20 Fusion",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "108+8+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 499
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A21s",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi Note 10S",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "64+8+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 229
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A74 5G",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 299
+    },
+    {
+        "Brand": "Realme",
+        "Model": "C21",
+        "Storage": "64GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 129
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy M52 5G",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "64+12+5+5",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 449
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "V21 5G",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.44",
+        "Camera (MP)": "64+8",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 499
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi Note 9 Pro Max",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "64+8+5+2",
+        "Battery Capacity (mAh)": 5020,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "Reno6 Pro+ 5G",
+        "Storage": "256GB",
+        "RAM": "12GB",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "50+16+13+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 849
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Poco X3 Pro",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 5160,
+        "Price ($)": 249
+    },
+    {
+        "Brand": "Realme",
+        "Model": "C25s",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 149
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto G Power 2021",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.6",
+        "Camera (MP)": "48+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "V21e 5G",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.44",
+        "Camera (MP)": "64+8",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 329
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A53s 5G",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.52",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Mi 11 Lite NE",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "64+8+5",
+        "Battery Capacity (mAh)": 4250,
+        "Price ($)": 329
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto G Stylus 2021",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "48+8+2",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 299
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A54s 5G",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 299
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy F41",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "64+8+5",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 239
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi Note 10 Pro",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "64+8+5+2",
+        "Battery Capacity (mAh)": 5020,
+        "Price ($)": 329
+    },
+    {
+        "Brand": "Realme",
+        "Model": "Narzo 50A",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "50+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 149
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy M52",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "64+12+5+5",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 449
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto G50s",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+5+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 249
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A13",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "50+5",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 189
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi 9 Activ",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.53",
+        "Camera (MP)": "50+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 209
+    },
+    {
+        "Brand": "Realme",
+        "Model": "7i",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "64+8+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A42 5G",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.6",
+        "Camera (MP)": "48+8+5+5",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 329
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto G9 Power Lite",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 149
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A22",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 219
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A74",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "48+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 299
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y72 5G",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.58",
+        "Camera (MP)": "64+8+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 339
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Mi 10i",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "108+8+2+2",
+        "Battery Capacity (mAh)": 4820,
+        "Price ($)": 319
+    },
+    {
+        "Brand": "Realme",
+        "Model": "Narzo 30 Pro",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+8+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy M62",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "64+12+5+5",
+        "Battery Capacity (mAh)": 7000,
+        "Price ($)": 429
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A53s",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "50+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 269
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A12",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+5+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A15s",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.52",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 4230,
+        "Price ($)": 169
+    },
+    {
+        "Brand": "Realme",
+        "Model": "C11 2021",
+        "Storage": "32GB",
+        "RAM": "2GB",
+        "Screen Size (inches)": "6.52",
+        "Camera (MP)": "8+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 99
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "C30",
+        "Storage": "32GB",
+        "RAM": "2GB",
+        "Screen Size (inches)": "6.82",
+        "Camera (MP)": "13+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 149
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi 9i",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.53",
+        "Camera (MP)": "13",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 139
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A22 5G",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.6",
+        "Camera (MP)": "48+5+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A53",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 219
+    },
+    {
+        "Brand": "Realme",
+        "Model": "7 5G",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+8+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy M31s",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "64+12+5+5",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 379
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A15",
+        "Storage": "32GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "6.52",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 4230,
+        "Price ($)": 149
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "G10",
+        "Storage": "32GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "6.52",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5050,
+        "Price ($)": 169
+    },
+    {
+        "Brand": "Realme",
+        "Model": "C25",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A52 5G",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "64+12+5+5",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 449
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A94",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 4310,
+        "Price ($)": 399
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "X20",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "64+5+2+2",
+        "Battery Capacity (mAh)": 4470,
+        "Price ($)": 449
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi 9 Power",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.53",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy M12",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+5+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y20s G",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.51",
+        "Camera (MP)": "50+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 209
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "Reno 6 Pro 5G",
+        "Storage": "128GB",
+        "RAM": "12GB",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "64+8+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 549
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y31s",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.58",
+        "Camera (MP)": "13+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 239
+    },
+    {
+        "Brand": "Realme",
+        "Model": "8 5G",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 299
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A32 5G",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+8+5+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "5.4",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.39",
+        "Camera (MP)": "48+5+2+2",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 249
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi Note 10",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy F41",
+        "Storage": "64GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "64+8+5",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 249
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "V20 SE",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.44",
+        "Camera (MP)": "48+8+2",
+        "Battery Capacity (mAh)": 4100,
+        "Price ($)": 319
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "3.4",
+        "Storage": "64GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "6.39",
+        "Camera (MP)": "13+5+2",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi Note 9 Pro Max",
+        "Storage": "64GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "64+8+5+2",
+        "Battery Capacity (mAh)": 5020,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Realme",
+        "Model": "C20",
+        "Storage": "32GB",
+        "RAM": "2GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "8",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 99
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "1.4",
+        "Storage": "32GB",
+        "RAM": "2GB",
+        "Screen Size (inches)": "6.51",
+        "Camera (MP)": "8+2",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 119
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi 9 Power",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.53",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 169
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A02s",
+        "Storage": "32GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 139
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y51A",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.58",
+        "Camera (MP)": "48+8+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 289
+    },
+    {
+        "Brand": "Realme",
+        "Model": "Narzo 20",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+8+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "5.3",
+        "Storage": "64GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "13+5+2+2",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi Note 8",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.3",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy M11",
+        "Storage": "32GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "13+5+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 130
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A54",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.51",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y20s",
+        "Storage": "128GB",
+        "RAM": "8GB",
+        "Screen Size (inches)": "6.51",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 249
+    },
+    {
+        "Brand": "Realme",
+        "Model": "C11",
+        "Storage": "32GB",
+        "RAM": "2GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 99
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "2.4",
+        "Storage": "32GB",
+        "RAM": "2GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "8+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 129
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi 9",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.53",
+        "Camera (MP)": "13+8+5+2",
+        "Battery Capacity (mAh)": 5020,
+        "Price ($)": 149
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A11",
+        "Storage": "32GB",
+        "RAM": "2GB",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "13+5+2",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 129
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A12",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.22",
+        "Camera (MP)": "13+2",
+        "Battery Capacity (mAh)": 4230,
+        "Price ($)": 139
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y20G",
+        "Storage": "128GB",
+        "RAM": "6GB",
+        "Screen Size (inches)": "6.51",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 229
+    },
+    {
+        "Brand": "Realme",
+        "Model": "C15",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+8+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "3.1 Plus",
+        "Storage": "32GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "6",
+        "Camera (MP)": "13+5",
+        "Battery Capacity (mAh)": 3500,
+        "Price ($)": 139
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi Note 7",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.3",
+        "Camera (MP)": "48+5",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 159
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A31",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "12+2+2",
+        "Battery Capacity (mAh)": 4230,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Vivo",
+        "Model": "Y15",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.35",
+        "Camera (MP)": "13+8+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 189
+    },
+    {
+        "Brand": "Realme",
+        "Model": "Narzo 10A",
+        "Storage": "32GB",
+        "RAM": "3GB",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "12+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 129
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi 9T",
+        "Storage": "128GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.53",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 229
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A30s",
+        "Storage": "64GB",
+        "RAM": "4GB",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "25+8+5",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Note 20 Ultra",
+        "Storage": "256",
+        "RAM": "12",
+        "Screen Size (inches)": "6.9",
+        "Camera (MP)": "108+12+12",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 1299
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone SE (2020)",
+        "Storage": "64",
+        "RAM": "3",
+        "Screen Size (inches)": "4.7",
+        "Camera (MP)": "12",
+        "Battery Capacity (mAh)": 1821,
+        "Price ($)": 399
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Poco X3 Pro",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 5160,
+        "Price ($)": 249
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 5",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6",
+        "Camera (MP)": "12.2+16",
+        "Battery Capacity (mAh)": 4080,
+        "Price ($)": 699
+    },
+    {
+        "Brand": "Huawei",
+        "Model": "Mate 40 Pro",
+        "Storage": "256",
+        "RAM": "8",
+        "Screen Size (inches)": "6.76",
+        "Camera (MP)": "50+20+12+3D",
+        "Battery Capacity (mAh)": 4400,
+        "Price ($)": 1199
+    },
+    {
+        "Brand": "OnePlus",
+        "Model": "Nord N10 5G",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.49",
+        "Camera (MP)": "64+8+2+2",
+        "Battery Capacity (mAh)": 4300,
+        "Price ($)": 299
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "Reno 5 Pro 5G",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "64+8+2+2",
+        "Battery Capacity (mAh)": 4350,
+        "Price ($)": 449
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A71",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "64+12+5+5",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 599
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "8.3 5G",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6.81",
+        "Camera (MP)": "64+12+2+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 499
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 11 Pro Max",
+        "Storage": "512",
+        "RAM": "4",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "12+12+12",
+        "Battery Capacity (mAh)": 3969,
+        "Price ($)": 1099
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Mi 11",
+        "Storage": "256",
+        "RAM": "8",
+        "Screen Size (inches)": "6.81",
+        "Camera (MP)": "108+13+5",
+        "Battery Capacity (mAh)": 4600,
+        "Price ($)": 749
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto G Power (2021)",
+        "Storage": "64",
+        "RAM": "4",
+        "Screen Size (inches)": "6.6",
+        "Camera (MP)": "48+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 4a 5G",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.2",
+        "Camera (MP)": "12.2+16",
+        "Battery Capacity (mAh)": 3885,
+        "Price ($)": 499
+    },
+    {
+        "Brand": "Huawei",
+        "Model": "Nova 8 Pro 5G",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6.72",
+        "Camera (MP)": "64+8+2+2",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 699
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A52",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "64+12+5+5",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 449
+    },
+    {
+        "Brand": "OnePlus",
+        "Model": "8T",
+        "Storage": "256",
+        "RAM": "12",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "48+16+5+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 749
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi 9",
+        "Storage": "64",
+        "RAM": "4",
+        "Screen Size (inches)": "6.53",
+        "Camera (MP)": "13+8+5+2",
+        "Battery Capacity (mAh)": 5020,
+        "Price ($)": 149
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 13",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.1",
+        "Camera (MP)": "12+12+12",
+        "Battery Capacity (mAh)": 2815,
+        "Price ($)": 799
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A15s",
+        "Storage": "64",
+        "RAM": "4",
+        "Screen Size (inches)": "6.52",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 4230,
+        "Price ($)": 159
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "G50 5G",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.82",
+        "Camera (MP)": "48+5+2",
+        "Battery Capacity (mAh)": 4850,
+        "Price ($)": 299
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone XR",
+        "Storage": "64",
+        "RAM": "3",
+        "Screen Size (inches)": "6.1",
+        "Camera (MP)": "12+7",
+        "Battery Capacity (mAh)": 2942,
+        "Price ($)": 599
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S21 Ultra 5G",
+        "Storage": "256",
+        "RAM": "12",
+        "Screen Size (inches)": "6.8",
+        "Camera (MP)": "108+10+10+12",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 1199
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi Note 10 Pro",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "108+8+5+2",
+        "Battery Capacity (mAh)": 5020,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "Find X3 Neo 5G",
+        "Storage": "256",
+        "RAM": "12",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "50+16+13+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 899
+    },
+    {
+        "Brand": "Huawei",
+        "Model": "P40 Pro",
+        "Storage": "256",
+        "RAM": "8",
+        "Screen Size (inches)": "6.58",
+        "Camera (MP)": "50+12+40+3D",
+        "Battery Capacity (mAh)": 4200,
+        "Price ($)": 1099
+    },
+    {
+        "Brand": "OnePlus",
+        "Model": "9 Pro",
+        "Storage": "256",
+        "RAM": "12",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "48+50+8+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 969
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto G Stylus (2021)",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "48+8+2",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 299
+    },
+    {
+        "Brand": "Google",
+        "Model": "Pixel 4",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "5.7",
+        "Camera (MP)": "12.2+16",
+        "Battery Capacity (mAh)": 2800,
+        "Price ($)": 799
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A12",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+5+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "5.4",
+        "Storage": "64",
+        "RAM": "4",
+        "Screen Size (inches)": "6.39",
+        "Camera (MP)": "48+5+2+2",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 12",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.1",
+        "Camera (MP)": "12+12",
+        "Battery Capacity (mAh)": 2815,
+        "Price ($)": 799
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi 10",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "50+8+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 229
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A94 5G",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 4310,
+        "Price ($)": 399
+    },
+    {
+        "Brand": "Huawei",
+        "Model": "Nova 9 Pro 5G",
+        "Storage": "256",
+        "RAM": "8",
+        "Screen Size (inches)": "6.72",
+        "Camera (MP)": "50+8+16+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 699
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S10 Lite",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "48+12+5",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 649
+    },
+    {
+        "Brand": "OnePlus",
+        "Model": "8 Pro",
+        "Storage": "256",
+        "RAM": "12",
+        "Screen Size (inches)": "6.78",
+        "Camera (MP)": "48+48+8+5",
+        "Battery Capacity (mAh)": 4510,
+        "Price ($)": 999
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "7.2",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.3",
+        "Camera (MP)": "48+8+5",
+        "Battery Capacity (mAh)": 3500,
+        "Price ($)": 349
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Mi 10T Pro",
+        "Storage": "256",
+        "RAM": "8",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "108+13+5",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 599
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 11",
+        "Storage": "64",
+        "RAM": "4",
+        "Screen Size (inches)": "6.1",
+        "Camera (MP)": "12+12+12",
+        "Battery Capacity (mAh)": 3110,
+        "Price ($)": 699
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "F19 Pro+ 5G",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "64+8+2+2",
+        "Battery Capacity (mAh)": 4310,
+        "Price ($)": 419
+    },
+    {
+        "Brand": "Huawei",
+        "Model": "Mate 30 Pro 5G",
+        "Storage": "256",
+        "RAM": "8",
+        "Screen Size (inches)": "6.53",
+        "Camera (MP)": "40+40+8+3D",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 1099
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy M51",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "64+12+5+5",
+        "Battery Capacity (mAh)": 7000,
+        "Price ($)": 449
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "Reno4 Pro 5G",
+        "Storage": "256",
+        "RAM": "12",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "48+12+13",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 799
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "3.4",
+        "Storage": "64",
+        "RAM": "4",
+        "Screen Size (inches)": "6.39",
+        "Camera (MP)": "13+5+2",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto G9 Plus",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.81",
+        "Camera (MP)": "64+8+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone XS Max",
+        "Storage": "256",
+        "RAM": "4",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "12+12",
+        "Battery Capacity (mAh)": 3174,
+        "Price ($)": 1099
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A32 5G",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+8+5+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi Note 9S",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "48+8+5+2",
+        "Battery Capacity (mAh)": 5020,
+        "Price ($)": 249
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A92",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 399
+    },
+    {
+        "Brand": "Huawei",
+        "Model": "P30 Pro",
+        "Storage": "256",
+        "RAM": "8",
+        "Screen Size (inches)": "6.47",
+        "Camera (MP)": "40+20+8+ToF",
+        "Battery Capacity (mAh)": 4200,
+        "Price ($)": 999
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S20 FE 5G",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "12+12+8",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 699
+    },
+    {
+        "Brand": "OnePlus",
+        "Model": "7 Pro",
+        "Storage": "256",
+        "RAM": "8",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "48+16+8",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 699
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "6.2",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.3",
+        "Camera (MP)": "16+8+5",
+        "Battery Capacity (mAh)": 3500,
+        "Price ($)": 249
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Mi 10T Lite",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "64+8+2+2",
+        "Battery Capacity (mAh)": 4820,
+        "Price ($)": 279
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 8 Plus",
+        "Storage": "64",
+        "RAM": "3",
+        "Screen Size (inches)": "5.5",
+        "Camera (MP)": "12+12",
+        "Battery Capacity (mAh)": 2691,
+        "Price ($)": 699
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A53",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 249
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto G8 Power",
+        "Storage": "64",
+        "RAM": "4",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "16+8+8+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 229
+    },
+    {
+        "Brand": "Huawei",
+        "Model": "Nova 7i",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 4200,
+        "Price ($)": 329
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S21+ 5G",
+        "Storage": "256",
+        "RAM": "8",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "12+64+12",
+        "Battery Capacity (mAh)": 4800,
+        "Price ($)": 999
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Mi 11 Lite",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "64+8+5",
+        "Battery Capacity (mAh)": 4250,
+        "Price ($)": 399
+    },
+    {
+        "Brand": "OnePlus",
+        "Model": "Nord",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6.44",
+        "Camera (MP)": "48+8+5+2",
+        "Battery Capacity (mAh)": 4115,
+        "Price ($)": 449
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi 9T",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.53",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto G10",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A52 5G",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "64+12+5+5",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 449
+    },
+    {
+        "Brand": "Huawei",
+        "Model": "P40 Pro+",
+        "Storage": "512",
+        "RAM": "8",
+        "Screen Size (inches)": "6.58",
+        "Camera (MP)": "50+40+12+3D",
+        "Battery Capacity (mAh)": 4200,
+        "Price ($)": 1399
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 11 Pro Max",
+        "Storage": "64",
+        "RAM": "4",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "12+12+12",
+        "Battery Capacity (mAh)": 3969,
+        "Price ($)": 1099
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Note20 5G",
+        "Storage": "256",
+        "RAM": "8",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "12+64+12",
+        "Battery Capacity (mAh)": 4300,
+        "Price ($)": 999
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Poco M3",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.53",
+        "Camera (MP)": "48+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 179
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S20 Ultra 5G",
+        "Storage": "512",
+        "RAM": "16",
+        "Screen Size (inches)": "6.9",
+        "Camera (MP)": "108+48+12+3D",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 1399
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 12 mini",
+        "Storage": "256",
+        "RAM": "4",
+        "Screen Size (inches)": "5.4",
+        "Camera (MP)": "12+12",
+        "Battery Capacity (mAh)": 2227,
+        "Price ($)": 899
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A21s",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "OnePlus",
+        "Model": "9",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "48+50+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 729
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto G9 Power",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.8",
+        "Camera (MP)": "64+2+2",
+        "Battery Capacity (mAh)": 6000,
+        "Price ($)": 229
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Z Fold2 5G",
+        "Storage": "256",
+        "RAM": "12",
+        "Screen Size (inches)": "7.6 (unfolded)",
+        "Camera (MP)": "12+12+12",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 1999
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Mi 10T Pro 5G",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6.67",
+        "Camera (MP)": "108+13+5",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 599
+    },
+    {
+        "Brand": "Nokia",
+        "Model": "2.4",
+        "Storage": "32",
+        "RAM": "2",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "13+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 139
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone SE (2020)",
+        "Storage": "128",
+        "RAM": "3",
+        "Screen Size (inches)": "4.7",
+        "Camera (MP)": "12",
+        "Battery Capacity (mAh)": 1821,
+        "Price ($)": 449
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Redmi 9C",
+        "Storage": "64",
+        "RAM": "3",
+        "Screen Size (inches)": "6.53",
+        "Camera (MP)": "13+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 119
+    },
+    {
+        "Brand": "Huawei",
+        "Model": "Y7p",
+        "Storage": "64",
+        "RAM": "4",
+        "Screen Size (inches)": "6.39",
+        "Camera (MP)": "48+8+2",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 199
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 12 Pro",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.1",
+        "Camera (MP)": "12+12+12",
+        "Battery Capacity (mAh)": 2815,
+        "Price ($)": 999
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy A42 5G",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.6",
+        "Camera (MP)": "48+8+5+5",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 329
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S21",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6.2",
+        "Camera (MP)": "64+12+12",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 799
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 11",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.1",
+        "Camera (MP)": "12+12",
+        "Battery Capacity (mAh)": 3110,
+        "Price ($)": 749
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy S20 Ultra 5G",
+        "Storage": "128",
+        "RAM": "12",
+        "Screen Size (inches)": "6.9",
+        "Camera (MP)": "108+48+12+0.3",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 1199
+    },
+    {
+        "Brand": "OnePlus",
+        "Model": "8T",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6.55",
+        "Camera (MP)": "48+16+5+2",
+        "Battery Capacity (mAh)": 4500,
+        "Price ($)": 749
+    },
+    {
+        "Brand": "Realme",
+        "Model": "7",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6.5",
+        "Camera (MP)": "64+8+2+2",
+        "Battery Capacity (mAh)": 5000,
+        "Price ($)": 299
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone XR",
+        "Storage": "128",
+        "RAM": "3",
+        "Screen Size (inches)": "6.1",
+        "Camera (MP)": "12+12",
+        "Battery Capacity (mAh)": 2942,
+        "Price ($)": 599
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "A93",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6.43",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 319
+    },
+    {
+        "Brand": "Motorola",
+        "Model": "Moto G Pro",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "48+16+2",
+        "Battery Capacity (mAh)": 4000,
+        "Price ($)": 329
+    },
+    {
+        "Brand": "Huawei",
+        "Model": "P30 Lite",
+        "Storage": "128",
+        "RAM": "4",
+        "Screen Size (inches)": "6.15",
+        "Camera (MP)": "48+8+2",
+        "Battery Capacity (mAh)": 3340,
+        "Price ($)": 329
+    },
+    {
+        "Brand": "Samsung",
+        "Model": "Galaxy Note20 5G",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "12+64+12",
+        "Battery Capacity (mAh)": 4300,
+        "Price ($)": 1049
+    },
+    {
+        "Brand": "Xiaomi",
+        "Model": "Mi 10 Lite 5G",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.57",
+        "Camera (MP)": "48+8+2+2",
+        "Battery Capacity (mAh)": 4160,
+        "Price ($)": 349
+    },
+    {
+        "Brand": "Apple",
+        "Model": "iPhone 12 Pro Max",
+        "Storage": "128",
+        "RAM": "6",
+        "Screen Size (inches)": "6.7",
+        "Camera (MP)": "12+12+12",
+        "Battery Capacity (mAh)": 3687,
+        "Price ($)": 1099
+    },
+    {
+        "Brand": "Oppo",
+        "Model": "Reno3",
+        "Storage": "128",
+        "RAM": "8",
+        "Screen Size (inches)": "6.4",
+        "Camera (MP)": "48+13+8+2",
+        "Battery Capacity (mAh)": 4025,
+        "Price ($)": 429
+    }
+]

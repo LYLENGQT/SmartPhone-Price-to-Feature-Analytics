@@ -1,0 +1,61 @@
+{
+    "total_phones": 328,
+    "brands": {
+        "Samsung": 64,
+        "Xiaomi": 51,
+        "Oppo": 45,
+        "Realme": 32,
+        "Vivo": 28,
+        "Apple": 26,
+        "Nokia": 22,
+        "Motorola": 19,
+        "OnePlus": 14,
+        "Huawei": 10,
+        "Google": 5,
+        "Asus": 4,
+        "LG": 3,
+        "Blackberry": 3,
+        "Sony": 1,
+        "CAT": 1
+    },
+    "price_ranges": {
+        "0-200": 92,
+        "201-400": 125,
+        "401-600": 35,
+        "601-800": 35,
+        "801-1000": 19,
+        "1001+": 22
+    },
+    "storage_distribution": {
+        "32GB": 25,
+        "64GB": 66,
+        "128GB": 197,
+        "256GB": 37,
+        "512GB": 3
+    },
+    "ram_distribution": {
+        "2GB": 10,
+        "3GB": 29,
+        "4GB": 101,
+        "5GB": 1,
+        "6GB": 86,
+        "8GB": 77,
+        "12GB": 23,
+        "16GB": 1
+    },
+    "camera_analysis": {
+        "average_total_mp": 57.6954268292683,
+        "average_camera_count": 3.125,
+        "highest_mp": 108
+    },
+    "battery_analysis": {
+        "average_capacity": 4646.323170731707,
+        "min_capacity": 1821,
+        "max_capacity": 7000
+    },
+    "screen_size_analysis": {
+        "average_size": 6.470274390243904,
+        "min_size": 4.5,
+        "max_size": 7.6
+    }
+}
